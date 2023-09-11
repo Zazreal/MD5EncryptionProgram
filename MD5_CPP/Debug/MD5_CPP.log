@@ -1,0 +1,3 @@
+﻿  MD5_CPP.cpp
+C:\Users\Tomek\source\repos\MD5_CPP\MD5_CPP\MD5_CPP.cpp(167,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+  MD5_CPP.vcxproj -> C:\Users\Tomek\source\repos\MD5_CPP\Debug\MD5_CPP.exe
